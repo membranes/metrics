@@ -14,7 +14,7 @@ $.getJSON('../../warehouse/numerics/abstracts/tree.json', function (data) {
 
     const points = [],
         annotationName = {
-            miscellaneous: 'Miscellaneous',
+            // miscellaneous: 'Miscellaneous',
             beginning: 'Beginning',
             inside: 'Inside'
         };
